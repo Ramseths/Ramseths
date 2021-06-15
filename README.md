@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 
-### Connect with me:
+### Contacto:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,4 +31,7 @@
 <br />
 
 ![Ramseths GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramseths&show_icons=true&theme=midnight-purple)
+
+[youtube]: https://www.youtube.com/channel/UCwkzjU6dHdYkShlxfx8PGcA
+[linkedin]: https://www.linkedin.com/in/ramseths/
 

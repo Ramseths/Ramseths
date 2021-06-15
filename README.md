@@ -7,4 +7,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 
-![Ramseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramseths)
+![Ramseth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramseths&show_icons=true&theme=midnight-purple)
+

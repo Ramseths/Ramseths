@@ -1,11 +1,7 @@
-### Hi, I am Jesús Ramseths 👋
+## Hola, soy Jesús Ramseths 👋
+* Estudiante de Ing. en Sistemas Computacionales, Esp. Software
+* Apasionado de la Inteligencia Artificial & Visión por Computador 🧠 💻 👁️
 
-- 🌱 I’m currently learning Neuromorphic Computing 
-- 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
 
 ### Contacto:
 

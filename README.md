@@ -27,7 +27,7 @@
 <br />
 <br />
 
-![Ramseths GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramseths&show_icons=true&theme=midnight-purple)
+![Ramseths GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramseths&show_icons=true&theme=midnight-purpe)
 
 [youtube]: https://www.youtube.com/channel/UCwkzjU6dHdYkShlxfx8PGcA
 [linkedin]: https://www.linkedin.com/in/ramseths/

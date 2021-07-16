@@ -1,9 +1,10 @@
-## Hola, soy Jesús Ramseths 👋
-* Estudiante de Ing. en Sistemas Computacionales, Esp. Software
-* Apasionado de la Inteligencia Artificial & Visión por Computador 🧠 💻 👁️
+## Hi, I'm Jesus Ramseths 👋
+* Computer systems engineering student in MX.
+* I like to share knowledge about artificial intelligence and the application of mathematics (Euclidean Distance, Naive Bayes, Entropy, Support Vector Machines, etc) in Data Science. 
+* Development of computer vision and neural signal processing applications. 🧠 💻 👁️
 
 
-### Contacto:
+### Social:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -11,7 +12,7 @@
 
 <br />
 
-### Lenguajes & Herramientas:
+### Programming Languages & Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />

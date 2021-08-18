@@ -29,6 +29,5 @@
 
 
 
-[youtube]: https://www.youtube.com/channel/UCwkzjU6dHdYkShlxfx8PGcA
 [linkedin]: https://www.linkedin.com/in/ramseths/
 

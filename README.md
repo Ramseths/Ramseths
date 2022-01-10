@@ -1,5 +1,6 @@
 ## Hi, I'm Jesus Ramseths 👋
-* Computer systems engineering student in MX.
+* Computer Systems Engineer with focus on Artificial Intelligence such as Machine Learning, Neuromorphic Computing, Deep Learning, Reinforcement Learning and Computer Vision.
+* Development of single-layer and multilayer artificial neural networks, application of encoder-decoders, residual blocks and fully connected blocks.
 * I like to share knowledge about artificial intelligence and the application of mathematics (Euclidean Distance, Naive Bayes, Entropy, Support Vector Machines, etc) in Data Science. 
 * Development of computer vision and neural signal processing applications. 🧠 💻 👁️
 

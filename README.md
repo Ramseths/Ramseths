@@ -1,6 +1,6 @@
 ## Hi, I'm Jesus Ramseths 👋
 * Computer Systems Engineer with focus on Artificial Intelligence such as Machine Learning, Neuromorphic Computing, Deep Learning, Reinforcement Learning and Computer Vision.
-* Development of single-layer and multilayer artificial neural networks, application of encoder-decoders, residual blocks and fully connected blocks.
+* Development of single-layer and multilayer artificial neural networks, application of encoder-decoders, residual blocks and fully connected blocks. Experience in development of evolutionary algorithms for parallel computing, intelligent models based on Machine Learning and Quantum Computing. Implementation of Computer Vision using image segmentation, object detection models and disease detection. Robot Operating System (ROS) with Linux systems.
 * I like to share knowledge about artificial intelligence and the application of mathematics (Euclidean Distance, Naive Bayes, Entropy, Support Vector Machines, etc) in Data Science. 
 * Development of computer vision and neural signal processing applications. 🧠 💻 👁️
 

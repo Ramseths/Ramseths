@@ -33,7 +33,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.goconqr.com/uploads/slide_property/image/269082/desktop_bb0d21bf-2876-45ab-9a69-b61855001587.png" />
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=Ramseths&color=blue)
+![Profile](https://komarev.com/ghpvc/?username=Ramseths&color=blue)
 
 [linkedin]: https://www.linkedin.com/in/ramseths/
 

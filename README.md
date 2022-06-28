@@ -4,12 +4,6 @@
 * I like to share knowledge about artificial intelligence and the application of mathematics (Euclidean Distance, Naive Bayes, Entropy, Support Vector Machines, etc) in Data Science. 
 * Development of computer vision and neural signal processing applications. 🧠 💻 👁️
 
-
-### Social:
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ### Programming Languages & Tools:
@@ -33,6 +27,4 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.goconqr.com/uploads/slide_property/image/269082/desktop_bb0d21bf-2876-45ab-9a69-b61855001587.png" />
 <br />
 <br />
-
-[linkedin]: https://www.linkedin.com/in/ramseths/
 

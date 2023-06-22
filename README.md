@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus Ramseths</h1>
-<h3 align="center">AI/ML Engineer - Data Scientist</h3>
+<h3 align="center">AI/ML Engineer - Evolutionary Computation, Deep Learning, Computer Vision </h3>
 
 - 🌱 I’m currently learning **Neuromorphic Computing & Quantum Computing**
 
-- 👯 I’m looking to collaborate on **ML/QML/DL**
+- 👯 I’m looking to collaborate on **ML/DL/RL/EC**
 
 - 💬 Ask me about **AI, ML, Data Science, Web Development**
 
